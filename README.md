@@ -13,10 +13,14 @@ Pour la start-up, cette application permettrait de sensibiliser le grand public 
 
 De plus, le développement de l’application mobile permettra de construire une première version de l'architecture Big Data nécessaire.
 
-## Les données
+## Source
 Jeu de données constitué des images de fruits et des labels associés, qui pourra servir de point de départ pour construire une partie de la chaîne de traitement des données.
 
 ![P8_donnees](https://user-images.githubusercontent.com/71518818/135588352-8fb629e6-b1fc-45e7-8ddf-5f4578536f82.png)
+
+## Boîte à outils
+
+![P8_outils](https://user-images.githubusercontent.com/71518818/135912163-a1504bfd-eb3e-43f7-8e39-d442dbc4105b.png)
 
 ## Mission
 - développer, dans un environnement Big Data, une première chaîne de traitement des données qui comprendra le preprocessing et une étape de réduction de dimension.
@@ -33,3 +37,14 @@ L’important est de mettre en place les premières briques de traitement qui se
 
 - tenir compte dans vos développements du fait que le volume de données va augmenter très rapidement après la livraison de ce projet. 
 - scripts en Pyspark, cloud Microsoft Azure pour profiter d’une architecture Big Data (Azure Databricks, Cloud storage, AzCopy).
+
+## Compétences
+
+- Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data.
+- Paralléliser des opérations de calcul avec Pyspark.
+- Identifier les outils du cloud permettant de mettre en place un environnement Big Data.
+
+## Évaluation
+
+![P8_eval](https://user-images.githubusercontent.com/71518818/135912367-4282abfd-dc3d-4de7-ac7d-611b1d66121b.png)
+
